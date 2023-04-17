@@ -33,16 +33,7 @@ from sklearn.metrics import r2_score
 from keras import regularizers
 from keras.utils.np_utils import to_categorical
 
-#to_categorical(0, max_value_of_array)
-###
-'''
-to do
-remove embedding file dependency
-wrap in functions
 
-
-'''
-####
 plt.style.use('ggplot')
 
 from keras.layers import Layer
