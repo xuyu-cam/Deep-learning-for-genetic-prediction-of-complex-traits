@@ -7,4 +7,4 @@ This repository houses and documents the codes used to train and test polygenic 
 
 - **Prsice2**: Scripts that train and test genetic scores of simulated traits using the P+T method (implemented through [Prsice-2](https://choishingwan.github.io/PRSice/)).
 
-- **MLP Talos**: Scripts that train and test genetic scores of simulated traits using the MLP method (network structure and other hyperparameters search through [Talos](https://github.com/autonomio/talos)).
+- **MLP Talos**: Scripts that train and test genetic scores of simulated traits using the MLP method (implemented using [Keras](https://keras.io/); network structure and other hyperparameters optimization through [Talos](https://github.com/autonomio/talos)).
